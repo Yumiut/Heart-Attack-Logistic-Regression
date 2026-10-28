@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+figures/confusion_matrix_from_code.png
